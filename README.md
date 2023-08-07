@@ -48,4 +48,9 @@ SLAs Plans provide a length of time in which the help desk is expected to take i
 <p>
 <img src="https://i.imgur.com/8vdgbwe.png://" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+Help topics help users categorize their tickets. In the example below we have made different help topics.
+<p>
+<img src="https://i.imgur.com/PutY47D.png://" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
