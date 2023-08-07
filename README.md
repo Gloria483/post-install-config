@@ -22,7 +22,7 @@ Select the "Departments" button in the agents tab. Here we will be able to creat
 <img src="https://i.imgur.com/7socgJE.png://" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. For example you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example we will create a Level II Support Team.
+After configuring a new department we will set up a new team. Teams allow you to pull agents from different departments you can have an A team that has top technicians from specific departments. For example, you can create a help topic that correlates with a product you produce, and assign it to a team of agents that specialize in that particular product. To set up a team go to Agents->Teams. A Level I support team has been created by default, in this example, we will create a Level II Support Team.
 </p>
 <br />
 
@@ -34,5 +34,11 @@ Now that we have set up a new team we will create a new setting that will allow 
 
 <p>
 <img src="https://i.imgur.com/fMli4ut.png://" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we are going to create Agents.Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their departments. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are assigned in the Agents tab.<p>
+ 
+<p>
+<img src="https://i.imgur.com/5PyyBcr.png://" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
